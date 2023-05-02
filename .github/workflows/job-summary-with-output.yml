@@ -35,8 +35,8 @@ jobs:
           Link: https://app.saucelabs.com/tests/90517fbac7d14cdbb42742742e427bf5
 
           <details>
-            <sumamry>video</Summary>
-            <video src="https://assets.saucelabs.com/jobs/90517fbac7d14cdbb42742742e427bf5/video.mp4" controls="controls" style="max-width: 730px;"></video>
+            <summary>video</summary>
+            <video src="https://assets.saucelabs.com/jobs/90517fbac7d14cdbb42742742e427bf5/video.mp4" />
           </details>
 
           <details>
@@ -61,8 +61,8 @@ jobs:
           Link: https://app.saucelabs.com/tests/76b27eb63654448cabcc9263c50f0332
 
           <details>
-            <sumamry>video</Summary>
-            <video src="https://assets.saucelabs.com/jobs/76b27eb63654448cabcc9263c50f0332/video.mp4" controls="controls" style="max-width: 730px;"></video>
+            <summary>video</summary>
+            <video src="https://assets.saucelabs.com/jobs/76b27eb63654448cabcc9263c50f0332/video.mp4" />
           </details>
 
           <details>
@@ -87,8 +87,8 @@ jobs:
           Link: https://app.saucelabs.com/tests/4bd4fbf0e2e34541bb53393f717ba308
 
           <details>
-            <sumamry>video</Summary>
-            <video src="https://assets.saucelabs.com/jobs/4bd4fbf0e2e34541bb53393f717ba308/video.mp4" controls="controls" style="max-width: 730px;"></video>
+            <summary>video</summary>
+            <video src="https://assets.saucelabs.com/jobs/4bd4fbf0e2e34541bb53393f717ba308/video.mp4" />
           </details>
 
           <details>
@@ -113,8 +113,8 @@ jobs:
           Link: https://app.saucelabs.com/tests/c9b41088d57349eb842fe434345a5893
 
           <details>
-            <sumamry>video</Summary>
-            <video src="https://assets.saucelabs.com/jobs/c9b41088d57349eb842fe434345a5893/video.mp4" controls="controls" style="max-width: 730px;"></video>
+            <summary>video</summary>
+            <video src="https://assets.saucelabs.com/jobs/c9b41088d57349eb842fe434345a5893/video.mp4" />
           </details>
 
           <details>
