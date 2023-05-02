@@ -1,4 +1,6 @@
 
+name: Display Summary
+
 on:
   push:
 
@@ -10,4 +12,9 @@ jobs:
         run: |
           cat << EOF >> $GITHUB_STEP_SUMMARY
           Hello World :rocket: !
+          EOF
+      - name: Add Second  Summary
+        run: |
+          cat << EOF >> $GITHUB_STEP_SUMMARY
+          (re-) Hello World :rocket: !
           EOF
