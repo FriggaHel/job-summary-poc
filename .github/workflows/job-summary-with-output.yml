@@ -20,14 +20,11 @@ jobs:
 
           :white_check_mark:    All suites have passed in 1m24s
 
-
           Build Link: https://app.saucelabs.com/builds/vdc/0f5aae70bbca3578b41a2dc9dc8c73e9
 
           ## Job Details
 
-          ### Firefox in sauce
-
-          Link: https://app.saucelabs.com/tests/90517fbac7d14cdbb42742742e427bf5
+          ### [Firefox in sauce](https://app.saucelabs.com/tests/90517fbac7d14cdbb42742742e427bf5)
 
           <details>
             <summary>Console</summary>
@@ -46,9 +43,7 @@ jobs:
           \`\`\`
           </details>
 
-          ### Chrome in sauce
-
-          Link: https://app.saucelabs.com/tests/76b27eb63654448cabcc9263c50f0332
+          ### [Chrome in sauce](https://app.saucelabs.com/tests/76b27eb63654448cabcc9263c50f0332)
 
           <details>
             <summary>Console</summary>
@@ -67,9 +62,7 @@ jobs:
           \`\`\`
           </details>
 
-          ### iOS Test
-
-          Link: https://app.saucelabs.com/tests/4bd4fbf0e2e34541bb53393f717ba308
+          ### [iOS Test](https://app.saucelabs.com/tests/4bd4fbf0e2e34541bb53393f717ba308)
 
           <details>
             <summary>Console</summary>
@@ -88,9 +81,7 @@ jobs:
           \`\`\`
           </details>
 
-          ### iOS Test
-
-          Link: https://app.saucelabs.com/tests/c9b41088d57349eb842fe434345a5893
+          ### [iOS Test](https://app.saucelabs.com/tests/c9b41088d57349eb842fe434345a5893)
 
           <details>
             <summary>Console</summary>
