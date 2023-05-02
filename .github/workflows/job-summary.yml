@@ -11,12 +11,7 @@ jobs:
       - name: Add job Summary
         run: |
           cat << EOF >> $GITHUB_STEP_SUMMARY
-          Hello World :rocket: !
-          EOF
-      - name: Add Second  Summary
-        run: |
-          cat << EOF >> $GITHUB_STEP_SUMMARY
-          (re-) Hello World :rocket: !
+          Hello World Job Summary :rocket: !
           EOF
       - name: Add Third Summary
         run: |
