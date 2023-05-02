@@ -8,12 +8,7 @@ jobs:
   first-job:
     runs-on: ubuntu-latest
     steps:
-      - name: Add job Summary
-        run: |
-          cat << EOF >> $GITHUB_STEP_SUMMARY
-          Hello World Job Summary :rocket: !
-          EOF
-      - name: Add Third Summary
+      - name: Add Summary
         run: |
           cat << EOF >> $GITHUB_STEP_SUMMARY
           | | Name | Duration | Status| Browser| Platform| Device |
