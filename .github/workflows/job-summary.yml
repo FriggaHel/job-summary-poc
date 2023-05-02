@@ -38,7 +38,7 @@ jobs:
           <details>
             <summary>Firefox in sauce</summary>
 
-          ```
+          \`\`\`
           Sauce TestCafe Runner 2.4.0
           Running TestCafe 2.3.1
           Preparing npm environment
@@ -49,13 +49,13 @@ jobs:
 
 
           1 passed (3s)
-          ```
+          \`\`\`
           </details>
 
           <details>
             <summary>Chrome in sauce</summary>
 
-          ```
+          \`\`\`
           Sauce TestCafe Runner 2.4.0
           Running TestCafe 2.3.1
           Preparing npm environment
@@ -66,8 +66,26 @@ jobs:
 
 
           1 passed (8s)
-          ```
+          \`\`\`
           </details>
+
+          <details>
+            <summary>iOS Test</summary>
+
+          \`\`\`
+          Sauce TestCafe Runner 2.4.0
+          Running TestCafe 2.3.1
+          Preparing npm environment
+          Running tests in:
+          - Safari 14.0.1 / iOS 14.3
+
+          ✓ Getting Started Sauce demo - SwagLabs username not set
+
+
+          1 passed (11s)
+          \`\`\`
+          </details>
+
 
           <details>
             <summary>iOS Test</summary>
@@ -83,24 +101,6 @@ jobs:
 
 
           1 passed (11s)
-          ```
-          </details>
-
-
-          <details>
-            <summary>iOS Test</summary>
-
-          ```
-          Sauce TestCafe Runner 2.4.0
-          Running TestCafe 2.3.1
-          Preparing npm environment
-          Running tests in:
-          - Safari 14.0.1 / iOS 14.3
-
-          ✓ Getting Started Sauce demo - SwagLabs username not set
-
-
-          1 passed (11s)
-          ```
+          \`\`\`
           </details>
           EOF
