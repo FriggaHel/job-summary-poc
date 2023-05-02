@@ -32,4 +32,75 @@ jobs:
 
 
           Build Link: https://app.saucelabs.com/builds/vdc/0f5aae70bbca3578b41a2dc9dc8c73e9
+
+          ## Console output
+
+          <details>
+            <summary>Firefox in sauce</summary>
+
+          ```
+          Sauce TestCafe Runner 2.4.0
+          Running TestCafe 2.3.1
+          Preparing npm environment
+          Running tests in:
+          - Firefox 112.0 / Windows 10
+
+          √ Getting Started Sauce demo - SwagLabs username not set
+
+
+          1 passed (3s)
+          ```
+          </details>
+
+          <details>
+            <summary>Chrome in sauce</summary>
+
+          ```
+          Sauce TestCafe Runner 2.4.0
+          Running TestCafe 2.3.1
+          Preparing npm environment
+          Running tests in:
+          - Chrome 112.0.0.0 / Big Sur 11
+
+          ✓ Getting Started Sauce demo - SwagLabs username not set
+
+
+          1 passed (8s)
+          ```
+          </details>
+
+          <details>
+            <summary>iOS Test</summary>
+
+          ```
+          Sauce TestCafe Runner 2.4.0
+          Running TestCafe 2.3.1
+          Preparing npm environment
+          Running tests in:
+          - Safari 14.0.1 / iOS 14.3
+
+          ✓ Getting Started Sauce demo - SwagLabs username not set
+
+
+          1 passed (11s)
+          ```
+          </details>
+
+
+          <details>
+            <summary>iOS Test</summary>
+
+          ```
+          Sauce TestCafe Runner 2.4.0
+          Running TestCafe 2.3.1
+          Preparing npm environment
+          Running tests in:
+          - Safari 14.0.1 / iOS 14.3
+
+          ✓ Getting Started Sauce demo - SwagLabs username not set
+
+
+          1 passed (11s)
+          ```
+          </details>
           EOF
