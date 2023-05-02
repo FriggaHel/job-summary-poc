@@ -90,7 +90,7 @@ jobs:
           <details>
             <summary>iOS Test</summary>
 
-          ```
+          \`\`\`
           Sauce TestCafe Runner 2.4.0
           Running TestCafe 2.3.1
           Preparing npm environment
