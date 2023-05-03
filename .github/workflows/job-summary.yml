@@ -2,7 +2,7 @@
 name: Display Summary
 
 on:
-  push:
+  pull_request:
 
 jobs:
   first-job:
