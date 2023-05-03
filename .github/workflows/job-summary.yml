@@ -96,4 +96,6 @@ jobs:
         run: |
           cat << EOF >> $GITHUB_STEP_SUMMARY
           Hello World Job Summary :rocket: !
+          \`\`\`
+          </details>
           EOF
