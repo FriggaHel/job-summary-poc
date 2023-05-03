@@ -91,11 +91,9 @@ jobs:
           Preparing npm environment
           Running tests in:
           - Safari 14.0.1 / iOS 14.3
-
-          ✓ Getting Started Sauce demo - SwagLabs username not set
-
-
-          1 passed (11s)
-          \`\`\`
-          </details>
+          EOF
+      - name: Post-Broken
+        run: |
+          cat << EOF >> $GITHUB_STEP_SUMMARY
+          Hello World Job Summary :rocket: !
           EOF
